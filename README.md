@@ -4,46 +4,61 @@ Manage and edit post meta data directly from the WordPress post edit screen — 
 
 ---
 
-## 🚀 Features
+## 📄 Plugin Details
 
-- View all post meta data in a clean, sortable table
-- Add new meta keys and values dynamically
-- Edit existing meta instantly using AJAX (no reload)
-- Delete unused or old meta entries with one click
-- Works with posts, pages, and all custom post types
-- Real-time success/error notifications
-- Loads only on post edit screens
-- Secure with WordPress nonces
-- Developer-friendly & lightweight
+**Contributors:** fmthecoder  
+**Tags:** meta editor, meta manager, edit meta, delete meta, post metadata  
+**Requires at least:** WordPress 5.8  
+**Tested up to:** 6.8  
+**Stable tag:** 1.0.1  
+**Requires PHP:** 7.4  
+**License:** GPLv2 or later  
+**License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
 ---
 
-## 🛠 Use Cases
+## 📝 Description
 
-- Debugging post meta issues
-- Inspecting stored data from plugins and themes
-- Cleaning up unused metadata
-- Managing custom fields without phpMyAdmin
+**FM: Meta Data Manager for Post** gives developers and power users a fast, interactive way to manage post meta directly from the post edit screen.
 
-Perfect for developers and power users.
+- Instantly view all meta keys and values for any post, page, or custom post type  
+- Edit, add, or delete meta values with a single click — no phpMyAdmin required  
+- Fully AJAX-powered interface with real-time updates  
+- Works seamlessly with all post types  
+- Clean, lightweight, and integrated into the WordPress admin
+
+Perfect for debugging, inspecting, or cleaning up post meta data.
+
+> **Note:** This plugin is an independent open-source project created and maintained by the developer.  
+> It is **not affiliated with or endorsed by any company or organization.**
 
 ---
 
 ## ⚠️ Warning / Disclaimer
 
-Editing or deleting post meta directly can break theme or plugin functionality.  
-**Always back up your database first.**
+Editing or deleting post meta directly can affect how your theme or plugins function.  
+Before making any changes, **create a full database backup.**
 
-This plugin is intended for developers and advanced WordPress users.
+The developer is **not responsible for any data loss or site malfunction** caused by incorrect meta edits, additions, or deletions.
 
-The developer is **not responsible for any data loss or site issues caused by incorrect edits.**
+This tool is intended for **developers and advanced WordPress users** who understand how post meta works.
+
+---
+
+## 🔧 Features
+
+- View all post meta in a clean, sortable table
+- Add new meta keys and values directly
+- Edit existing meta values instantly (AJAX, no page refresh)
+- Delete unused or outdated meta entries with one click
+- Real-time success/error messages
+- Works with posts, pages & all custom post types
+- Loads only on post edit screens
+- Secured using WordPress nonces
 
 ---
 
 ## 📥 Installation
 
-### **Install via WordPress Dashboard**
-1. Go to **Plugins → Add New**
-2. Upload the plugin ZIP file
-3. Activate the plugin
-
+### **Manual Installation**
+1. Upload plugin files to:
