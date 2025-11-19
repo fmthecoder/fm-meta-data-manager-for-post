@@ -62,3 +62,31 @@ This tool is intended for **developers and advanced WordPress users** who unders
 
 ### **Manual Installation**
 1. Upload plugin files to:
+2. Activate via **Plugins → Installed Plugins**
+3. Edit any post, page, or CPT — look for **Meta Data Manager** panel
+
+### **From WordPress Dashboard**
+1. Go to **Plugins → Add New**
+2. Upload ZIP file
+3. Activate
+
+You can now view, edit, delete, or add post meta instantly.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### **Does it support custom post types?**
+Yes, it supports all registered post types automatically.
+
+### **Can I add new meta keys and values?**
+Yes — an _Add New Meta_ section allows this instantly.
+
+### **Can I edit multiple meta keys with the same name?**
+Yes, each entry is displayed individually and editable.
+
+### **Is it safe to edit meta values directly?**
+Yes, but be cautious — modifying certain meta fields may affect plugins/themes.
+
+### **Does it support user meta or term meta?**
+Not yet — currently supports only post meta. Future support may be added.
