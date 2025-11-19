@@ -1,0 +1,42 @@
+.fm-meta-data-wrap {
+	margin-top: 10px;
+}
+
+.fm-meta-table input.meta-value {
+	width: 100%;
+	padding: 4px 6px;
+	font-size: 13px;
+}
+
+.fm-meta-table td, .fm-meta-table th {
+	padding: 8px;
+}
+
+.fm-meta-table .button {
+	min-width: 30px;
+	text-align: center;
+	padding: 0 6px;
+}
+
+.fm-meta-table .meta-actions {
+	text-align: center;
+}
+
+.fm-meta-table code {
+	background: #f5f5f5;
+	padding: 2px 4px;
+	border-radius: 4px;
+}
+
+.fm-add-meta input {
+    padding: 6px 8px;
+    font-size: 13px;
+}
+
+.fm-add-meta h4 {
+    margin-bottom: 8px;
+}
+
+#fm-meta-message p {
+    margin: 0;
+}
